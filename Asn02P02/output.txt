@@ -1,0 +1,23 @@
+OUTPUT:
+Now we shall take the of a string from 2
+consider
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+
+The desired output is:- 
+c d e f g h i j k l m n o p q a b 
